@@ -1,2 +1,2 @@
 # Halite
-Ruby implementation of the [halite](https://halite.io/index.php) bot.
+Python implementation of the [halite](https://halite.io/index.php) bot.
