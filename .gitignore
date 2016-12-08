@@ -1,5 +1,6 @@
-# Halite binary for local testing
+# Halite binary for local testing & output files
 halite
+*.hlt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
